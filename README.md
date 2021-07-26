@@ -12,3 +12,7 @@ Sheggam Harshith - Developer
 Jaya Prakash - Developer
 
 Key Competencies : Motors, Python, Arduino, RaspberryPi
+
+Client : Sreyas Institute of Engineering and Technology
+
+Location : Innovatio Hub(Robotics Research Center)
